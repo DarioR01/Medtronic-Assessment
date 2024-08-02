@@ -7,7 +7,7 @@ To determine if a valid solution exists, the bin packing problem is used to calc
 
 ## How To Use
 1. Install requirements found in `requirements.txt`
-2. Run the script from the terminal, the script entry poin it `main.py`.
+2. Run the script from the terminal, the script entry point is `main.py`.
 3. The script will prompt you to enter the path to an image, accepting both relative and absolute paths.
 4. Next, input the width and height of the patches, ensuring these values are integers.
 5. If a solution is found, the script will output the three image samples into the image_output folder.
